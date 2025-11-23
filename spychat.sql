@@ -1,8 +1,7 @@
 -- SPY CHAT Database Schema
 -- Import this file into your MySQL database
 
-
-USE u491998838_spychat;
+USE yourdbname;
 
 -- Users table
 CREATE TABLE `users` (
