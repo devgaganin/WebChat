@@ -352,6 +352,6 @@ Please include your preferred license (MIT recommended).
 ---
 
 Thank you for using **WebChat – Anonymous Chat Module System**.
-Built with ❤️ by **(Gagan)[https://devgagan.in/]**.
+Built with ❤️ by **[Gagan](https://devgagan.in/)**.
 
-If you need help join us on (Telegram)[https://t.me/team_spy_pro]
+If you need help join us on [Telegram](https://t.me/team_spy_pro)
