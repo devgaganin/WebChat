@@ -347,7 +347,7 @@ If you'd like to improve UI/UX, performance, or add features — feel free to co
 
 # 📝 License
 
-Please include your preferred license (MIT recommended).
+MIT 
 
 ---
 
